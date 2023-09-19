@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Game Dev\\UE5\\SilverDiver\\Source\\SilverDiver\\SilverDiver.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Game Dev\\UE5\\SilverDiver\\.vscode\\compileCommands_SilverDiver\\SilverDiver.262.rsp"
+		],
+		"directory": "D:\\Epic Games Library\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Game Dev\\UE5\\SilverDiver\\Source\\SilverDiver\\SilverDiver.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Game Dev\\UE5\\SilverDiver\\.vscode\\compileCommands_SilverDiver\\SilverDiver.262.rsp"
+		],
+		"directory": "D:\\Epic Games Library\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Game Dev\\UE5\\SilverDiver\\Source\\SilverDiver\\SilverDiver.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Game Dev\\UE5\\SilverDiver\\.vscode\\compileCommands_SilverDiver\\SilverDiver.262.rsp"
+		],
+		"directory": "D:\\Epic Games Library\\UE_5.2\\Engine\\Source"
+	}
+]

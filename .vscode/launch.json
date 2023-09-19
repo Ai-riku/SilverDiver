@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch SilverDiver (Debug)",
+			"request": "launch",
+			"program": "C:\\Game Dev\\UE5\\SilverDiver\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "SilverDiver Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiver (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Game Dev\\UE5\\SilverDiver\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "SilverDiver Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiver (Development)",
+			"request": "launch",
+			"program": "C:\\Game Dev\\UE5\\SilverDiver\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "SilverDiver Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiver (Test)",
+			"request": "launch",
+			"program": "C:\\Game Dev\\UE5\\SilverDiver\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "SilverDiver Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiver (Shipping)",
+			"request": "launch",
+			"program": "C:\\Game Dev\\UE5\\SilverDiver\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "SilverDiver Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiverEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Epic Games Library\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "SilverDiverEditor Win64 Debug Build",
+			"args": [
+				"C:\\Game Dev\\UE5\\SilverDiver\\SilverDiver.uproject"
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiverEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Epic Games Library\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "SilverDiverEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Game Dev\\UE5\\SilverDiver\\SilverDiver.uproject"
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch SilverDiverEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Epic Games Library\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "SilverDiverEditor Win64 Development Build",
+			"args": [
+				"C:\\Game Dev\\UE5\\SilverDiver\\SilverDiver.uproject"
+			],
+			"cwd": "D:\\Epic Games Library\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games Library\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games Library\\UE_5.2"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Epic Games Library\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Game Dev\\UE5\\SilverDiver\\SilverDiver.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Epic Games Library\\UE_5.2"
+		}
+	]
+}
